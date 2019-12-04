@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/rhel7:7.6
+FROM registry.access.redhat.com/ubi8/ubi:8.0
 MAINTAINER ANANDPAVITHRAN <apavithr@redhat.com>
 LABEL "Demo of webserver"
 ENV "VAR1=apple"
